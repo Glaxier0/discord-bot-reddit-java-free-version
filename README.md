@@ -1,3 +1,4 @@
+# DEPRECATED JUST USE [NORMAL VERSION](https://github.com/Glaxier0/discord-bot-reddit-java)
 # discord-bot-reddit-java-free-version
  A discord bot project that gathers posts from reddit and post them in discord channel.
  
